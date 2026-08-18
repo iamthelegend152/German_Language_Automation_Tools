@@ -6,6 +6,7 @@ Parent-monitored academic software, number-theory algorithms, and bilingual syst
 
 This library functions as a packaged data suite consisting of specialized automation scripts:
 
+*   **`sentence_builder.py`**: Present-tense statement validation module checking for strict German Position 2 verb placement syntax rules.
 *   **`fraction_simplifier.py`**: Automated HPSB Class 6 math calculator reducing complex fractions using Euclid's GCD subtraction algorithm.
 *   **`pronoun_quizzer.py`**: Present-tense conjugation verification matrix testing language endings (`e/st/t/en`) against subject inputs.
 *   **`tum_admission_engine.py`**: Automated Bavarian Formula GPA calculator and point assessment algorithm mapping out university entry gates.
