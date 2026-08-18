@@ -6,6 +6,8 @@ Parent-monitored academic software, number-theory algorithms, and bilingual syst
 
 This library functions as a packaged data suite consisting of specialized automation scripts:
 
+*   **`fraction_simplifier.py`**: Automated HPSB Class 6 math calculator reducing complex fractions using Euclid's GCD subtraction algorithm.
+*   **`pronoun_quizzer.py`**: Present-tense conjugation verification matrix testing language endings (`e/st/t/en`) against subject inputs.
 *   **`tum_admission_engine.py`**: Automated Bavarian Formula GPA calculator and point assessment algorithm mapping out university entry gates.
 *   **`tum_master_suite.py`**: Unified system dashboard integrating flight countdown arrays, math metrics check loops, and interactive terminal interfaces.
 *   **`test_suite.py`**: Automated testing engine running internal parameter verification diagnostics across 5 code sub-modules.
