@@ -6,6 +6,7 @@ Parent-monitored academic software, number-theory algorithms, and bilingual syst
 
 This library functions as a packaged data suite consisting of specialized automation scripts:
 
+*   **`attendance_logger.py`**: Performance verification tracker calculating school attendance percentages against the mandatory 75% HPSB baseline.
 *   **`sentence_builder.py`**: Present-tense statement validation module checking for strict German Position 2 verb placement syntax rules.
 *   **`fraction_simplifier.py`**: Automated HPSB Class 6 math calculator reducing complex fractions using Euclid's GCD subtraction algorithm.
 *   **`pronoun_quizzer.py`**: Present-tense conjugation verification matrix testing language endings (`e/st/t/en`) against subject inputs.
