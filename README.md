@@ -6,6 +6,9 @@ Parent-monitored academic software, number-theory algorithms, and bilingual syst
 
 This library functions as a packaged data suite consisting of specialized automation scripts:
 
+*   **`data_insulator.py`**: Defensive input data insulation filter sanitizing text parameters and flagging unauthorized data characters.
+*   **`speed_converter.py`**: High-speed train rail transit unit metric converter translating km/h directly into mph parameters.
+*   **`grade_analytics.py`**: Dynamic school grade performance analytics engine tracking term averages against the 95% target matrix.
 *   **`launcher.py`**: Centralized runtime system launcher routing module acting as an interactive gateway console for execution tracks.
 *   **`attendance_logger.py`**: Performance verification tracker calculating school attendance percentages against the mandatory 75% HPSB baseline.
 *   **`sentence_builder.py`**: Present-tense statement validation module checking for strict German Position 2 verb placement syntax rules.
