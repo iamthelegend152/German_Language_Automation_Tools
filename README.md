@@ -4,8 +4,10 @@ Parent-monitored academic software, number-theory algorithms, and bilingual syst
 
 ## 📊 Core Repository Architecture Matrix
 
-This library functions as a packaged data suite consisting of specialized automation scripts:
+This library functions as a packaged data suite consisting of 21 specialized automation scripts:
 
+*   **`binary_search.py`**: High-efficiency logarithmic search engine splitting sorted array coordinates to locate target metrics.
+*   **`math_diagnostic.py`**: Academic mathematics performance diagnostic engine tracking calculation metrics against the 95% target baseline.
 *   **`data_insulator.py`**: Defensive input data insulation filter sanitizing text parameters and flagging unauthorized data characters.
 *   **`speed_converter.py`**: High-speed train rail transit unit metric converter translating km/h directly into mph parameters.
 *   **`grade_analytics.py`**: Dynamic school grade performance analytics engine tracking term averages against the 95% target matrix.
